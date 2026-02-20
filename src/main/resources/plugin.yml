@@ -1,0 +1,10 @@
+name: ElytraMount
+version: 1.0.0
+main: com.example.elytramount.ElytraMountPlugin
+api-version: '1.21'
+authors: [Codex]
+description: Lets players mount Elytra-wearing players and fly together.
+commands:
+  dismount:
+    description: Dismount from your current mount.
+    usage: /dismount
